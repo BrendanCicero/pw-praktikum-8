@@ -1,0 +1,84 @@
+{
+    "menu":[
+        {
+            "asal": "Meksiko",
+            "nama": "Burritos",
+            "deskripsi": "Makanan yang mirip dengan kebab turki, berisi daging dan pasta kacang yang digulung menjadi satu dengan roti tortilla.",
+            "harga": "80.000",
+            "estimasi": "10-15 menit",
+            "gambar": "burritos.jpg"
+        },
+        {
+            "asal": "Jepang",
+            "nama": "Domburimono",
+            "deskripsi": "Makanan yang terdiri dari beras yang ditutupi dengan daging ayam, telur rebus, acar, sup tahu, daging sapi rebus, dan biasanya diberi udang goreng yang di sebut dengan Tendon.",
+            "harga": "120.000",
+            "estimasi": "15-20 menit",
+            "gambar": "domburimono.jpg"
+        },
+        {
+            "asal": "Jepang",
+            "nama": "Donburi",
+            "deskripsi": "Makanan yang terdiri dari nasi putih yang di beri berbagai macam lauk seperti ikan, sayuran, daging dan kuah yang disajikan di mangkuk besar.",
+            "harga": "65.000",
+            "estimasi": "5-10 menit",
+            "gambar": "donburi.jpg"
+        },
+        {
+            "asal": "Italia",
+            "nama": "Fettucini Alfredo",
+            "deskripsi": "Merupakan pasta yang disajikan dengan menggunakan saus krim sehingga kebanyakan warnanya putih.",
+            "harga": "50.000",
+            "estimasi": "16-18 menit",
+            "gambar": "fettucini-alfredo.jpg"
+        },
+        {
+            "asal": "Italia",
+            "nama": "Gnocchi",
+            "deskripsi": "Merupakan jenis pangsit yang terbuat dari tepung yang dibuat dengan berbagai rasa dan juga gaya, terdapat gnocchi berisi daging dan gnocchi khusus vegetarian.",
+            "harga": "145.000",
+            "estimasi": "12-13 menit",
+            "gambar": "gnocchi.jpg"
+        },
+        {
+            "asal": "Meksiko",
+            "nama": "Mole Pablano",
+            "deskripsi": "Makanan yang biasanya disajikan dengan daging kalkun, dan terdiri dari 20 bahan makanan seperti lada dan cokelat.",
+            "harga": "99.000",
+            "estimasi": "13-15 menit",
+            "gambar": "mole-pablano.jpg"
+        },
+        {
+            "asal": "Jepang",
+            "nama": "Okonomiyaki",
+            "deskripsi": "Makanan yang terdiri dari sayuran, seafood, daging cincang, bumbu khas jepang, dan diadon menjadi satu lalu di masak di atas wajan.",
+            "harga": "87.000",
+            "estimasi": "20 menit",
+            "gambar": "okonomiyaki.jpg"
+        },
+        {
+            "asal": "Italia",
+            "nama": "Ravioli",
+            "deskripsi": "Makanan yang dibuat dari bahan bayam dan juga ricotta, biasanya disajikan dengan porsi kecil.",
+            "harga": "53.000",
+            "estimasi": "5-7 menit",
+            "gambar": "ravioli.jpg"
+        },
+        {
+            "asal": "Meksiko",
+            "nama": "Tacos",
+            "deskripsi": "Makanan yang terdiri dari roti tortilla dengan isian daging dan pelengkap lainnya.",
+            "harga": "75.000",
+            "estimasi": "3-5 menit",
+            "gambar": "tacos.jpg"
+        },
+        {
+            "asal": "Jepang",
+            "nama": "Yakitori",
+            "deskripsi": "Makanan yang hampir sama dengan sate karena terdiri dari potongan daging ayam, jantung, hati, dan tulang yang dimasak dengan cara dipanggang.",
+            "harga": "45.800",
+            "estimasi": "4-7 menit",
+            "gambar": "yakitori.jpeg"
+        }
+    ]
+}
